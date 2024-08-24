@@ -4,7 +4,7 @@
 
 ♻Project Objectives: I took on the responsibility of developing an in-depth sales and financial analysis report that reviewed AtliQ Hardware's market performance across 2019, 2020, and 2021. The objective was to deliver actionable insights that would significantly elevate the company's performance, particularly concentrating on net sales and net profit margins.
 
-Steps Followed:
+### Steps Followed:
 
 
 
